@@ -1,0 +1,10 @@
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\obj\Debug\netcoreapp2.0\chefsstuffs.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\obj\Debug\netcoreapp2.0\chefsstuffs.AssemblyInfoInputs.cache
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\obj\Debug\netcoreapp2.0\chefsstuffs.AssemblyInfo.cs
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\bin\Debug\netcoreapp2.0\chefsstuffs.deps.json
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\bin\Debug\netcoreapp2.0\chefsstuffs.runtimeconfig.json
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\bin\Debug\netcoreapp2.0\chefsstuffs.runtimeconfig.dev.json
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\bin\Debug\netcoreapp2.0\chefsstuffs.dll
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\bin\Debug\netcoreapp2.0\chefsstuffs.pdb
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\obj\Debug\netcoreapp2.0\chefsstuffs.dll
+C:\Users\shawn\Desktop\Projects\c#\entityframe\chefsstuffs\obj\Debug\netcoreapp2.0\chefsstuffs.pdb
